@@ -35,7 +35,7 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=figma,bootstrap" alt="design tools" />
-  <img src="[https://cdn.worldvectorlogo.com/logos/canva-1.svg](https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Canva_Logo.svg/2560px-Canva_Logo.svg.png)" alt="Canva Logo" width="40" height="40" />
+  <img src="https://static-cse.canva.com/blob/1148850/image2.png" alt="Canva Logo" width="40" height="40" />
 </div>
 
 ### 🛠️ Tools & Platforms
