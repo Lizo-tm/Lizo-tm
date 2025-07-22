@@ -34,7 +34,7 @@
 ### 🎨 Design & Styling
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=figma,canva,bootstrap" alt="design tools" />
+  <img src="https://skillicons.dev/icons?i=figma,Canva,bootstrap" alt="design tools" />
 </div>
 
 ### 🛠️ Tools & Platforms
