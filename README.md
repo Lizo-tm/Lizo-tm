@@ -34,7 +34,8 @@
 ### 🎨 Design & Styling
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=figma,Canva,bootstrap" alt="design tools" />
+  <img src="https://skillicons.dev/icons?i=figma,bootstrap" alt="design tools" />
+  <img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" alt="Canva Logo" width="40" height="40" />
 </div>
 
 ### 🛠️ Tools & Platforms
