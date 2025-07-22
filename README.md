@@ -35,13 +35,12 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=figma,bootstrap" alt="design tools" />
-  <img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" alt="Canva Logo" width="40" height="40" />
 </div>
 
 ### 🛠️ Tools & Platforms
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="tools and platforms" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,excel" alt="tools and platforms" />
 </div>
 
 <!-- GitHub Stats with Animation -->
